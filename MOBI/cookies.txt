@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+libmobihtmlprint.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinity	eceb876bf18fe3bda2fab429da7f2d6ae70ce80ed257a9d988875dd2edeb3def
+libmobihtmlprint.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	eceb876bf18fe3bda2fab429da7f2d6ae70ce80ed257a9d988875dd2edeb3def
+libmobihtmlprint.azurewebsites.net	TRUE	/	FALSE	1999999999	SameSite	None
+
